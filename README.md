@@ -6,15 +6,15 @@ she/her <img src="public/transgender-flag.svg" alt="" height="18"> <img src="pub
 
 ## Projects
 
-**[NeoWatch](https://w.neome.uk)** — movie & tv catalog backed by Bun/ElysiaJS API. · [source](https://git.disroot.org/Neo/neomovies-web)
+**[NeoWatch](https://w.neome.uk)** — movie & tv catalog backed by Bun/ElysiaJS API. · [source](https://git.neome.uk/Neo/neowatch-web)
 
-**[NeoID](https://id.neome.uk)** — unified auth service. · [source](https://git.disroot.org/Neo/neo-id)
+**[NeoID](https://id.neome.uk)** — unified auth service. · [source](https://git.neome.uk/Neo/neo-id)
 
-**[Mailly](https://mail.neome.uk)** — Gmail web client. · [source](https://git.disroot.org/emilumiq/mailly)
+**[Mailly](https://mail.neome.uk)** — Gmail web client. · [source](https://git.neome.uk/emilumiq/mailly)
 
 ## Links
 
 <a href="https://t.me/+1gd8fQTSZYAxYjhi"><img src="https://img.shields.io/badge/Shitpost-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Shitpost"></a>
 <a href="https://t.me/emilumiq"><img src="https://img.shields.io/badge/DM_me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="DM me"></a>
-<a href="https://git.disroot.org/emilumiq"><img src="https://img.shields.io/badge/Disroot-333?style=for-the-badge&logo=forgejo&logoColor=white" alt="Disroot"></a>
+<a href="https://git.neome.uk/emilumiq"><img src="https://img.shields.io/badge/Forgejo-333?style=for-the-badge&logo=forgejo&logoColor=white" alt="Forgejo"></a>
 <a href="https://t.me/neomovies_news"><img src="https://img.shields.io/badge/Neo-9b3d80?style=for-the-badge&logo=telegram&logoColor=white" alt="Neo"></a>
